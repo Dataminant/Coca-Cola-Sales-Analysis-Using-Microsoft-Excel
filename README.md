@@ -39,8 +39,9 @@ This Sales dataset key columns include Retailer, Retailer ID, Invoice Date, Regi
 
 📍 **Geographical Analysis:**
 
-  Evaluate sales performance across different regions.
-  Identify high-performing regions and areas.
+     Evaluate sales performance across different regions.
+     
+     Identify high-performing regions and areas.
    &nbsp;
   
    &nbsp;
