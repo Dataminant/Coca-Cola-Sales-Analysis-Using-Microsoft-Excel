@@ -2,5 +2,4 @@
 &nbsp;
   
    &nbsp;
-
 ![Coca_cola_Sales_Dashboard](CocaColashot.jpg)
