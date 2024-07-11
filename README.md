@@ -22,19 +22,19 @@ This Sales dataset key columns include Retailer, Retailer ID, Invoice Date, Regi
 
 📍 **Sales Analysis:**
 
-   Identify sales performance metrics
+     Identify sales performance metrics
 
 
 📍 **Time Series Analysis:**
 
-   Examine sales trends over time to identify seasonality and potential patterns.
+     Examine sales trends over time to identify seasonality and potential patterns.
 
 
 📍**Product Analysis:2**
 
-   Sales performance of individual product.
+     Sales performance of individual product.
    
-   Identify products that contribute significantly to revenue.
+     Identify products that contribute significantly to revenue.
 
 
 📍 **Geographical Analysis:**
